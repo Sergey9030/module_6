@@ -51,13 +51,7 @@ a1 = Predator('Волк с Уолл-Стрит')
 a2 = Mammal('Хатико')
 p1 = Flower('Цветик семицветик')
 p2 = Fruit('Заводной апельсин')
-"""
-print(a1.name)
-print(a2.name)
-print(p1.name, p1.edible)
-print(p2.name, p2.edible)
 
-"""
 print(a1.name)
 print(p1.name)
 
